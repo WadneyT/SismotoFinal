@@ -102,6 +102,9 @@ O projeto segue o padrão MVC:
 
 ---
 
-## Autor
+## Diagrama de classe
+<img width="706" height="594" alt="image" src="https://github.com/user-attachments/assets/0b1175eb-9192-4d8d-bcfb-6d37b78f29f0" />
+
+## Autor Wadney Teixeira
 
 Projeto acadêmico desenvolvido para a disciplina de Web 1.
